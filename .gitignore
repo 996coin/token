@@ -3,3 +3,9 @@
 
 # Ada Library Information
 *.ali
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
