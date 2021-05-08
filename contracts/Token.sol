@@ -10,7 +10,7 @@ contract Token is IToken {
     using SafeMath for uint;
 
     //  Token名称
-    string public override name = "996Coin";
+    string public override name = "996coin";
 
     //  Token简写
     string public override symbol = "996";
